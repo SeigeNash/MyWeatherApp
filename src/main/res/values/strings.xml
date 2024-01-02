@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="temperature_celcius"> %s C</string>
+
+    <string name="wind_speed">%sKm/h</string>
+    <string name="humidity">Humidity: %s%%</string>
+    <string name="cloudy">Clouds: %s%%</string>
+    <string name="real_feel">Feels like: %s C</string>
+
+</resources>
