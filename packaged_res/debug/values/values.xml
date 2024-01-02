@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#3DDCDC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="api_key">3315c8f0c00f453a9e5164801232407</string>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="cloudy">Clouds: %s%%</string>
+    <string name="humidity">Humidity: %s%%</string>
+    <string name="real_feel">Feels like: %s C</string>
+    <string name="temperature_celcius"> %s C</string>
+    <string name="wind_speed">%sKm/h</string>
+    <style name="Base.Theme.MyWeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyWeatherApp" parent="Base.Theme.MyWeatherApp"/>
+</resources>
